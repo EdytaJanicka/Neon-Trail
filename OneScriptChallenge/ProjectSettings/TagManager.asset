@@ -8,6 +8,11 @@ TagManager:
   - Platform
   - Checkpoint1
   - Checkpoint2
+  - Checkpoint3
+  - Checkpoint4
+  - Platforms
+  - JumpPlatform
+  - End
   layers:
   - Default
   - TransparentFX
